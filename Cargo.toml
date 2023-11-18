@@ -1,8 +1,10 @@
 [package]
 name = "atomic-core"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 authors = ["Giacomo Pasini <g.pasini98@gmail.com>"]
+description = "Drop-in replacement for core with emulated atomics"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
